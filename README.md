@@ -6,6 +6,5 @@ My name is Thanh Dat Tran, but you can just call me Ultimate. Currently, I am a 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,java,py,php,visualstudio)](https://skillicons.dev)
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultimaten1&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
