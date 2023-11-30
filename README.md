@@ -3,6 +3,7 @@
 My name is Thanh Dat Tran, but you can just call me Ultimate. Currently, I am a third-year student at UEH University and my major is software engineering. I have learned a lot of programming languages such as C#, Java, Python, PHP, etc. My goal is to become a Web Developer with ASP.NET Core and Lavarel. 
 
 ##My skills:
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,java,py,PHP,visualstudio)](https://skillicons.dev)
 
 
