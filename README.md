@@ -1,6 +1,6 @@
 # Welcome to my repository
 
-My name is Thanh Dat Tran, but you can call me Ultimate. Currently, I am a third-year student at UEH University and my major is software engineering. I have learned a lot of programming languages such as C#, Java, Python, PHP, etc and I also have some projects in my repository. My goal is to become a Web Developer with ASP.NET Core and Lavarel. 
+My name is Thanh Dat Tran, but you can call me Ultimate. Currently, I am a third-year student at UEH University and my major is Software Engineering. I have learned basic topics such as DSA, OOP, computing networking, OS, system design, data science, testing, git... and some advanced topics like A.I and cloud computing... I also learned some programming languages such as JS, C++, C#, Java, Python and PHP. My goal is to become a Web Developer with ASP.NET Core (and Java Spring Boot). 
 
 ## My skills:
 
