@@ -9,6 +9,3 @@ My name is Thanh Dat Tran, but you can call me Ultimate. Currently, I am a third
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultimaten1&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ultimaten1)](https://github.com/ultimaten1/github-readme-stats)
-
-## My projects:
-
