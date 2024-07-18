@@ -5,3 +5,4 @@ My name is Thanh Dat Tran, but you can call me Ultimate. Currently, I am a final
 ## My skills:
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,py,php,html,css,js,git,aws,git,mysql,visualstudio,vscode,androidstudio,firebase,idea,figma,ubuntu,latex)](https://skillicons.dev)
+
